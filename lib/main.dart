@@ -59,7 +59,7 @@ class MyAppState extends State<MyApp> {
                   );
                 }),
             MyMenuButton(
-              title: "Collapsing Toolbar",
+              title: "Collapsing Toolbars",
               actionTap: () {
                 onButtonTap(
                   MainCollapsingToolbar(),
