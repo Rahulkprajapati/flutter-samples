@@ -12,7 +12,7 @@ class MainMenuNavigations extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Flutter Menu Navigations"),
+        title: Text("Flutter Menu Navigation"),
       ),
       body: Padding(
         padding: EdgeInsets.all(15.0),
